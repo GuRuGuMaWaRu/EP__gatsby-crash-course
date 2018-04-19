@@ -1,8 +1,8 @@
+---
 path: "/post-two"
-date: "2018-04-20"
-title: "Second Gatsby Post"
-author: "Booba Honk"
-
+date: "2018-04-19"
+title: "My Second Gatsby Post"
+author: "Brad Traversy"
 ---
 
-This is Booba Honk writing in Gatsby
+This is my very second post in Gatsby
